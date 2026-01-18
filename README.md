@@ -1,13 +1,13 @@
-# 📈 Stock Market Analysis Project
+#  Stock Market Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing historical stock market data of major companies to understand price trends, volatility, trading volume, and correlations.
 The analysis is performed using Python and data visualization techniques, making it suitable for a **Data Analyst / Internship-level project**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze historical stock price trends
 * Calculate and visualize moving averages
@@ -17,7 +17,7 @@ The analysis is performed using Python and data visualization techniques, making
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 * **File name:** `stocks.csv`
 * **Companies included:** AAPL, MSFT, GOOG, NFLX (or as available in dataset)
@@ -33,7 +33,7 @@ The analysis is performed using Python and data visualization techniques, making
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas
@@ -44,7 +44,7 @@ The analysis is performed using Python and data visualization techniques, making
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. Data Loading and Understanding
 2. Data Preprocessing
@@ -57,17 +57,17 @@ The analysis is performed using Python and data visualization techniques, making
 
 ---
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
-* 📉 Closing Price Trend Analysis
-* 📈 Moving Average Trend
-* 🔄 Daily Returns Distribution
-* ⚠️ Volatility Comparison
-* 🔗 Correlation Matrix between Stocks
+*  Closing Price Trend Analysis
+*  Moving Average Trend
+*  Daily Returns Distribution
+*  Volatility Comparison
+*  Correlation Matrix between Stocks
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ```bash
 pip install pandas numpy matplotlib seaborn
@@ -76,7 +76,7 @@ python main.py
 
 ---
 
-## 📌 Project Insights
+##  Project Insights
 
 * Stock prices show distinct trends for each company
 * Volatility varies significantly across companies
